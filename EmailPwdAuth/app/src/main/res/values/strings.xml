@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EmailPwdAuth</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="emailpassword_status_fmt">Email User: %s</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+    <string name="signed_out">Signed Out</string>
+
+
+</resources>
